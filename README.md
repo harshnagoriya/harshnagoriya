@@ -3,7 +3,7 @@
 <!--
 **harshnagoriya/harshnagoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Myself Harsh Nagoriya. I'm interested in the intersection of Data Science (Machine Learning) + Psychology (Mental Health). My area of interest is ML/DS and AI. I am proficient in Data Structures and Algorithms. I have worked on many cutting edge technologies which include Angular, Bootstrap, Jquery, Machine Learning, Deep Learning, Computer Vision, Image Processing, Cloud Computing, Flask, Docker, and many more. I am always eager to hone my skills.
+Myself Harsh Nagoriya. I'm interested in the intersection of Data Science (Machine Learning) + Psychology (Mental Health). My areas of interest are ML/DS and AI. I am proficient in Data Structures and Algorithms. I have worked on many cutting edge technologies which include Angular, Bootstrap, Jquery, Machine Learning, Deep Learning, Computer Vision, Image Processing, Cloud Computing, Flask, Docker, and many more. I am always eager to hone my skills learning new things.
 
 - 🔭 I’m currently working on intersection of Data Science and Psychology.
 - 🌱 I’m currently learning industrial IoT and ML practices.
@@ -12,7 +12,7 @@ Myself Harsh Nagoriya. I'm interested in the intersection of Data Science (Machi
 - 💬 Ask me about Data Structures, Algorithms, Machine Learning, C/C++ and Java/Advanced Java.
 - 📫 How to reach me: Visit [My personal website/portfolio www.harshnagoriya.ml](http://www.harshnagoriya.ml/) or mail me on [contact@harshnagoriya.ml](mailto:contact@harshnagoriya.ml).
 - 😄 Pronouns: Open to receive any.
-- ⚡ Fun fact: I am up for pizza party, always! You can invite me anytime! 
+- ⚡ Fun fact: I am always up for pizza party 😋! You can invite me anytime! 
 
 🤔 Wanna see my credentials?
 
