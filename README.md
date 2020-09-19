@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Open to receive any.
 - ⚡ Fun fact: I am up for pizza party, always! You can invite me anytime! 
 
-- 🤔 Wanna see my credentials?
+🤔 Wanna see my credentials?
+
 - 👔 [LinkedIN](https://www.linkedin.com/in/harshnagoriya/)
 - 💻 [GitHub](https://github.com/harshnagoriya)
 - 🎓 [Google Scholar](https://scholar.google.co.in/citations?user=cI0ZKq0AAAAJ&hl=en)
