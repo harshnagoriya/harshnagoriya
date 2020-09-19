@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**harshnagoriya/harshnagoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**harshnagoriya/harshnagoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Myself Harsh Nagoriya. I'm interested in the intersection of Data Science (Machine Learning) + Psychology (Mental Health). My area of interest is ML/DS and AI. I am proficient in Data Structures and Algorithms. I have worked on many cutting edge technologies which include Angular, Bootstrap, Jquery, Machine Learning, Deep Learning, Computer Vision, Image Processing, Cloud Computing, Flask, Docker, and many more. I am always eager to hone my skills.
 
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 👍 [Facebook](https://www.facebook.com/harshnagoriya/)
 - 👌 [Instagram](https://www.instagram.com/realharshnagoriya/)
 - 🐦 [Twitter](https://twitter.com/harshnagoriya)
--->
+
