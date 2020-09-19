@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on industry leveled projects in the domain of intersecting Iot and Machine Learning.
 - 🤔 I’m looking for help with cloud deployment of ML models.
 - 💬 Ask me about Data Structures, Algorithms, Machine Learning, C/C++ and Java/Advanced Java.
-- 📫 How to reach me: Visit [My personal website/portfolio www.harshnagoriya.ml](http://www.harshnagoriya.ml/) or mail me on [contact@harshnagoriya.ml](mailto:contact@harshnagoriya.ml?subject=[Contacting via GitHub]).
+- 📫 How to reach me: Visit [My personal website/portfolio www.harshnagoriya.ml](http://www.harshnagoriya.ml/) or mail me on [contact@harshnagoriya.ml (mailto:contact@harshnagoriya.ml).
 - 😄 Pronouns: Open to receive any.
 - ⚡ Fun fact: I am up for pizza party, always! You can invite me anytime! 
 
