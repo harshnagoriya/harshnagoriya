@@ -5,8 +5,6 @@
 
 Myself Harsh Nagoriya. I'm interested in the intersection of Data Science (Machine Learning) + Psychology (Mental Health). My area of interest is ML/DS and AI. I am proficient in Data Structures and Algorithms. I have worked on many cutting edge technologies which include Angular, Bootstrap, Jquery, Machine Learning, Deep Learning, Computer Vision, Image Processing, Cloud Computing, Flask, Docker, and many more. I am always eager to hone my skills.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on intersection of Data Science and Psychology.
 - 🌱 I’m currently learning industrial IoT and ML practices.
 - 👯 I’m looking to collaborate on industry leveled projects in the domain of intersecting Iot and Machine Learning.
