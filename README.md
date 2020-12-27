@@ -11,7 +11,7 @@ Myself Harsh Nagoriya. I'm interested in the intersection of Data Science (Machi
 - 🤔 I’m looking for help with cloud deployment of ML models.
 - 💬 Ask me about Data Structures, Algorithms, Machine Learning, C/C++ and Java/Advanced Java.
 - 📫 How to reach me: Visit [My personal website/portfolio www.harshnagoriya.ml](http://www.harshnagoriya.ml/) or mail me on [contact@harshnagoriya.ml](mailto:contact@harshnagoriya.ml).
-- 😄 Pronouns: Open to receive any.
+- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am always up for pizza party 😋! You can invite me anytime! 
 
 🤔 Wanna see my credentials?
