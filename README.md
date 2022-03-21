@@ -10,7 +10,7 @@ Myself Harsh Nagoriya. I'm interested in the intersection of Cloud Computing + t
 
 🤔 Wanna see my credentials?
 
-- 👔 [LinkedIN](https://www.linkedin.com/in/harshnagoriya/)
+- 👔 [LinkedIn](https://www.linkedin.com/in/harshnagoriya/)
 - 💻 [GitHub](https://github.com/harshnagoriya)
 - 🎓 [Google Scholar](https://scholar.google.co.in/citations?user=cI0ZKq0AAAAJ&hl=en)
 - 📖 [ResearchGate](https://www.researchgate.net/profile/Harsh_Nagoriya)
