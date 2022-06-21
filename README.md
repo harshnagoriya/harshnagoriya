@@ -4,7 +4,7 @@ Myself Harsh Nagoriya. I'm interested in the intersection of Cloud Computing + t
 - 🔭 I’m currently working on the intersection of Cloud Computing and Internet-enabled embedded devices.
 - 🌱 I’m currently learning industrial IoT and ML practices.
 - 💬 Ask me about Data Structures, Algorithms, Software Engineering, Cloud Computing, and Enterprise J2EE Java.
-- 📫 How to reach me: Visit [My personal website/portfolio www.harshnagoriya.ml](http://www.harshnagoriya.ml/) or mail me on [harshnagoriya@gmail.com](mailto:harshnagoriya@gmail.com).
+- 📫 How to reach me: Visit [My personal website/portfolio harshnagoriya.github.io/](https://harshnagoriya.github.io/) or mail me on [harshnagoriya@gmail.com](mailto:harshnagoriya@gmail.com).
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am always up for pizza parties 😋! You can invite me anytime! 
 
