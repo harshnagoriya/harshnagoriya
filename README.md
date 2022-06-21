@@ -18,12 +18,12 @@ Myself Harsh Nagoriya. I'm interested in the intersection of Cloud Computing + t
 
 🎓 Let's Talk about my qualifications. 
 
-**Master of Science in Computer Science** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.72/4.0** <br>
-**_Arizona State University, Tempe, AZ_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Aug 2021 – May 2023_ <br>
+**Master of Science in Computer Science** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Arizona State University, Tempe, AZ_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 _Relevant Coursework: Cloud Computing, Data Processing at Scale, Software Testing/Quality Management_ <br>
 
-**Bachelor of Technology in Information Technology** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.72/4.0** <br>
-**_Dharmsinh Desai University, Nadiad, India_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Aug 2017 – May 2021_ <br>
+**Bachelor of Technology in Information Technology** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Dharmsinh Desai University, Nadiad, India_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 _Relevant Coursework: Data Structure, Algorithms, Databases, Advanced Java, Design Patterns, Distributed Computing_ <br>
 
 💡 Let's Talk about my skills. 
@@ -36,17 +36,17 @@ _Relevant Coursework: Data Structure, Algorithms, Databases, Advanced Java, Desi
 💼 Let's Talk about my experiences. 
 
 **Arizona State University, Tempe, AZ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**_Computing Assistant_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _May 2022 – Present_ <br>
+**_Computing Assistant_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 - Aided developers with a large-scale rollout of OpenCast, Wistia and LMS software facilitating approx 5500 students. <br>
 - Configured, debugged, and engineered server-side web applications and administered more than 5 servers for the math and statistics department. <br>
 
 **Arizona State University, Tempe, AZ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**_Computing Assistant_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Aug 2021 – May 2022_ <br>
+**_Computing Assistant_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 - Aided the course instructors in creating assignments, examinations, solutions and the grading scheme and scripts for the class of 50 graduate students. <br>
 - Managed more than 2-course sections titled Internet-enabled embedded systems, Embedded Interfaces and Computer Organization throughout each semester. <br>
 
 **Institute for Plasma Research, Ahmedabad, India** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**_Project Intern_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _ Dec 2020 – Apr 2021_ <br>
+**_Project Intern_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 - Collaborated with managers to determine blockchain technology needs and aided by providing design insights. <br>
 - Contributed to Ethereum back-end logic and interfaces by using solidity programming language and maintained client and server-side applications. <br>
 - Collaborated with 4 developers to achieve assigned aims and organize modifications. <br>
