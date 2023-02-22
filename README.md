@@ -60,5 +60,5 @@ Aug 2017 – May 2021 \
 - 💻 [GitHub](https://github.com/harshnagoriya)
 - 🎓 [Google Scholar](https://scholar.google.co.in/citations?user=cI0ZKq0AAAAJ&hl=en)
 - 📖 [ResearchGate](https://www.researchgate.net/profile/Harsh_Nagoriya)
-- 👌 [Instagram]((https://www.instagram.com/_harshnagoriya_/)
+- 👌 [Instagram](https://www.instagram.com/_harshnagoriya_/)
 
