@@ -23,7 +23,7 @@ Aug 2017 – May 2021 \
 *Relevant Coursework:* Data Structure, Algorithms, Databases, Advanced Java, Design Patterns, Distributed Computing
 
 
-💡 Let's Talk about my skills. 
+💡 Let's Talk about his skills. 
 
 **Languages:** Java, JavaScript, C/C++, Python, Bash, Solidity, SQL, PL/SQL, C#, Prolog, Assembly Language <br>
 **Database:** MySQL, PostgreSQL, MariaDB, Oracle SQL Plus <br>
