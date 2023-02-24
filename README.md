@@ -8,7 +8,6 @@ His key skills include proficiency in automated testing using tools such as Sele
 - 📫 How to reach him: Visit [harshnagoriya.github.io/](https://harshnagoriya.github.io/) or mail him on [harshnagoriya@gmail.com](mailto:harshnagoriya@gmail.com).
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: His love for Chipotle's burrito bowl, Basundi, and Oreo shake is so strong that it's rumored that he can smell them from a mile away, and can sense them even in his dreams!
-- 💬 Favorite quote: पुरपेच हैं राहें जीने की, किस्मत एक टेढ़ी बाज़ी है; तुम हाथ पकड़ लो इरादे का, राहें सीधी है, अगर दिल राज़ी है. The paths of life are complex and winding, Fate is like a crooked game; Hold the hand of your motive, and the path is straight if the heart is willing to go on.
 
 🎓 Let's Talk about his qualifications. 
 
