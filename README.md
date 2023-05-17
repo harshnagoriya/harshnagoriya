@@ -9,6 +9,8 @@ His key skills include proficiency in automated testing using tools such as Sele
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: His love for Chipotle's burrito bowl, Basundi, and Oreo shake is so strong that it's rumored that he can smell them from a mile away, and can sense them even in his dreams!
 
+---
+
 🎓 Let's Talk about his qualifications. 
 
 ---
@@ -23,6 +25,7 @@ Dharmsinh Desai University, Nadiad, India \
 Aug 2017 – May 2021 \
 *Relevant Coursework:* Data Structure, Algorithms, Databases, Advanced Java, Design Patterns, Distributed Computing
 
+---
 
 💡 Let's Talk about his skills. 
 
@@ -32,6 +35,8 @@ Aug 2017 – May 2021 \
 **Database:** MySQL, PostgreSQL, MariaDB, Oracle SQL Plus <br>
 **Technologies/Frameworks:** JSP, Servlets, JDBC, Flask, .Net, AJAX, Spring, Hibernate <br>
 **Developer Tools:** Amazon Web Services, Truffle, Anaconda, Netbeans, Eclipse, Visual Studio, JUnit, Git, Taiga, Scrum <br>
+
+---
 
 💼 Let's Talk about his experiences. 
 
@@ -59,6 +64,7 @@ Aug 2017 – May 2021 \
 - Enhanced the development of Ethereum blockchain by utilizing 3 programming languages and maintaining both client-side and server-side code. Complied with industry-standard software development procedures and crafted 5 UML diagrams to enhance comprehension and facilitate future maintenance.
 - Participated in code reviews to ensure the quality and reliability of the final product.
 
+---
 
 🤔 Wanna see his credentials?
 
