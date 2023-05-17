@@ -11,7 +11,9 @@ His key skills include proficiency in automated testing using tools such as Sele
 
 🎓 Let's Talk about his qualifications. 
 
-**Master of Science in Computer Science** *3.90/4.0* \
+---
+
+**Master of Science in Computer Science** *3.94/4.0* \
 Arizona State University, Tempe, AZ \
 Aug 2021 – May 2023 \
 *Relevant Coursework:* Cloud Computing, Data Processing at Scale, Software Testing/Quality Management
@@ -24,6 +26,8 @@ Aug 2017 – May 2021 \
 
 💡 Let's Talk about his skills. 
 
+---
+
 **Languages:** Java, JavaScript, C/C++, Python, Bash, Solidity, SQL, PL/SQL, C#, Prolog, Assembly Language <br>
 **Database:** MySQL, PostgreSQL, MariaDB, Oracle SQL Plus <br>
 **Technologies/Frameworks:** JSP, Servlets, JDBC, Flask, .Net, AJAX, Spring, Hibernate <br>
@@ -31,9 +35,12 @@ Aug 2017 – May 2021 \
 
 💼 Let's Talk about his experiences. 
 
+---
+
 ## Audere, Seattle, WA
 **SDET/QA** *1 Aug 2022 – Present*
 
+- Exercising leadership abilities as the primary (lead) QA for 3 projects, handling quality assurance activities to ensure compliance with project timelines and deliverables.
 - Designed and implemented automated testing scripts using Espresso to increase testing efficiency and accuracy, resulting in a 40% reduction in manual testing time.
 - Created and carried out more than 200 test plans for mobile apps, ensuring both high software quality and customer satisfaction.
 - Collaborated with development teams to resolve 100+ bugs and improve software functionality.
@@ -55,9 +62,11 @@ Aug 2017 – May 2021 \
 
 🤔 Wanna see his credentials?
 
+---
+
 - 👔 [LinkedIn](https://www.linkedin.com/in/harshnagoriya/)
 - 💻 [GitHub](https://github.com/harshnagoriya)
 - 🎓 [Google Scholar](https://scholar.google.co.in/citations?user=cI0ZKq0AAAAJ&hl=en)
 - 📖 [ResearchGate](https://www.researchgate.net/profile/Harsh_Nagoriya)
-- 👌 [Instagram](https://www.instagram.com/_harshnagoriya_/)
+- 👌 [Instagram](https://www.instagram.com/realharshnagoriya/)
 
