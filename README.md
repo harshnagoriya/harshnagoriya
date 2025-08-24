@@ -1,78 +1,81 @@
-Harsh Nagoriya is a highly motivated and detail-oriented software engineer with over 1.5 years of experience in cloud and Android applications. He is adept at creating and executing test plans, analyzing test results, and recommending improvements to ensure software quality and customer satisfaction. He possesses a strong technical background in cloud computing, automation testing, and Android mobile platforms.
 
-His key skills include proficiency in automated testing using tools such as Selenium, Espresso, and JUnit, in-depth knowledge of the Android mobile platform and Android testing frameworks, ability to create test plans, and test cases, and perform manual and automated testing. He also has familiarity with Agile methodologies and continuous integration/continuous delivery (CI/CD) pipelines, excellent analytical and problem-solving skills, with a focus on quality assurance.
+# Harsh Nagoriya - Personal Portfolio & Professional Profile
 
-- 🔭 He is currently working on the intersection of Cloud Computing and Software Testing.
-- 🌱 He is currently learning industrial IoT and Cloud Computing.
-- 💬 Ask him about Data Structures, Algorithms, Software Engineering, Cloud Computing, and Enterprise J2EE Java.
-- 📫 How to reach him: Visit [harshnagoriya.github.io/](https://harshnagoriya.github.io/) or mail him on [harshnagoriya@gmail.com](mailto:harshnagoriya@gmail.com).
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: His love for Chipotle's burrito bowl, Basundi, and Oreo shake is so strong that it's rumored that he can smell them from a mile away, and can sense them even in his dreams!
+This repository contains the latest information about Harsh Nagoriya. For the most up-to-date details, visit the [personal portfolio website](https://harshnagoriya.github.io/).
 
----
+## Overview
 
-🎓 Let's Talk about his qualifications. 
+Harsh Nagoriya is a software engineer specializing in cloud computing, automation testing, and Android development. The portfolio website showcases skills, experience, projects, and accomplishments.
 
----
 
-**Master of Science in Computer Science** *3.94/4.0* \
-Arizona State University, Tempe, AZ \
-Aug 2021 – May 2023 \
-*Relevant Coursework:* Cloud Computing, Data Processing at Scale, Software Testing/Quality Management
 
-**Bachelor of Technology in Information Technology** *8.14/10* \
-Dharmsinh Desai University, Nadiad, India \
-Aug 2017 – May 2021 \
-*Relevant Coursework:* Data Structure, Algorithms, Databases, Advanced Java, Design Patterns, Distributed Computing
+## Professional Summary
 
----
+A highly motivated and detail-oriented Software Development Engineer with expertise in cloud computing, microservices architecture, and serverless applications. Experienced in developing scalable solutions using cloud services, optimizing system performance, and building data-driven applications that deliver actionable insights. Proven track record in leading technical migrations, automating workflows, and creating user-centric software that addresses real business needs. Passionate about leveraging technology to solve complex challenges and deliver solutions that positively impact key business objectives.
 
-💡 Let's Talk about his skills. 
+Strong backend development expertise using Python and Java to build high-performance API endpoints and microservices. Skilled in designing RESTful interfaces and implementing secure, efficient data communication protocols across distributed systems. Experience architecting scalable cloud solutions with focus on infrastructure optimization, cost efficiency, and high availability. Practiced in Agile methodologies with expertise in implementing robust CI/CD pipelines to streamline development workflows and ensure consistent, reliable software delivery. Demonstrated ability to bridge development and quality assurance through test automation frameworks, comprehensive test planning, and systematic bug resolution processes that improve overall software quality and reliability.
 
----
 
-**Languages:** Java, JavaScript, C/C++, Python, Bash, Solidity, SQL, PL/SQL, C#, Prolog, Assembly Language <br>
-**Database:** MySQL, PostgreSQL, MariaDB, Oracle SQL Plus <br>
-**Technologies/Frameworks:** JSP, Servlets, JDBC, Flask, .Net, AJAX, Spring, Hibernate <br>
-**Developer Tools:** Amazon Web Services, Truffle, Anaconda, Netbeans, Eclipse, Visual Studio, JUnit, Git, Taiga, Scrum <br>
 
----
+## Education
 
-💼 Let's Talk about his experiences. 
+- **Master of Science in Computer Science** — Arizona State University, 2021–2023
+	- Relevant Coursework: Cloud Computing, Data Processing at Scale, Software Testing/Quality Management, Data Visualization
+- **Bachelor of Technology in Information Technology** — Dharmsinh Desai University, 2017–2021
+	- Relevant Coursework: Data Structure and Algorithms, Databases, Advanced Java and Design Patterns, Distributed Computing
 
----
 
-## Audere, Seattle, WA
-**SDET/QA** *1 Aug 2022 – Present*
 
-- Exercising leadership abilities as the primary (lead) QA for 3 projects, handling quality assurance activities to ensure compliance with project timelines and deliverables.
-- Designed and implemented automated testing scripts using Espresso to increase testing efficiency and accuracy, resulting in a 40% reduction in manual testing time.
-- Created and carried out more than 200 test plans for mobile apps, ensuring both high software quality and customer satisfaction.
-- Collaborated with development teams to resolve 100+ bugs and improve software functionality.
-- Participated in Agile sprints and provided input on product design and functionality improvements, contributing to the successful launch of 3 major product releases.
-- Monitored and reported on testing results, providing insights and recommendations to improve software quality, resulting in a 95% customer satisfaction rate.
+## Skills
 
-## Arizona State University, Tempe, AZ
-**Computing Support** *Jun 2022 – Aug 2022*
+- **Programming Languages:** Java, Python, JavaScript, TypeScript, C++, Bash, Solidity, SQL, PL/SQL, C#, Prolog, Assembly
+- **Cloud & DevOps:** AWS (Lambda, S3, DynamoDB, API Gateway, SNS/SQS, RedShift), Terraform, Kubernetes, Docker
+- **Frameworks & Libraries:** Spring Boot, Node.js, React, Flask, J2EE, Servlets, JSP, AJAX
+- **Databases:** MySQL, PostgreSQL, MariaDB, Oracle SQL Plus
+- **Testing & Automation:** JUnit, TestNG, Selenium, Espresso, CircleCI
+- **Other Tools:** Git, Alembic, Netbeans, Eclipse, Visual Studio, Taiga, Scrum
 
-- Supported developers with the widespread implementation of OpenCast, Wistia, and LMS software, resulting in improved experiences for around 5500 students.
-- Set up and debugged server-side web applications and administered over 5 servers for the Math and Statistics department.
 
-## Institute for Plasma Research, Gandhinagar, India
-**Project Intern** *Dec 2020 – Apr 2021*
 
-- Enhanced the development of Ethereum blockchain by utilizing 3 programming languages and maintaining both client-side and server-side code. Complied with industry-standard software development procedures and crafted 5 UML diagrams to enhance comprehension and facilitate future maintenance.
-- Participated in code reviews to ensure the quality and reliability of the final product.
+## Experience
 
----
+- **Amazon** — Software Development Engineer (Dec 2023 – Present)
+	- Designed and launched a pre-development localization preview service, enabling marketers to visually validate multilingual content before engineering kickoff; integrated AI-powered translation with in-situ mock review, reducing global launch time from 8 weeks to 5 weeks and cutting rework cycles across locales by over 60%.
+	- Led the migration of Layer 7 TCP Virtual IPs from NetScaler to Amazon Application Load Balancer, optimizing traffic distribution for microservices and enhancing performance in a cloud-native environment. Configured cross-region routing and SSL/TLS termination, reducing costs by eliminating hardware load balancers and enabling automated scaling.
+	- Implemented automated content replication across 6+ Amazon marketplaces using serverless architecture, processing 300+ content variations and enabling 90+ successful replications through integration with 3 localization services.
+	- Set up a customer content optimization metric based on purchase success rates, automating content placement on the Amazon checkout thank-you page, resulting in a 28% increase in engagement and a 16% improvement in post-purchase conversions.
+	- Developed a dynamic, data-driven content optimization system enabling real-time personalized ranking (p13n) of customer experiences. Replaced static rule-based selection with contextual ranking, increasing content engagement by 15% and improving conversion rates by 10%.
 
-🤔 Wanna see his credentials?
+- **Audere, Seattle, WA** — Software Engineer (Aug 2022 – Dec 2023)
+	- Built serverless API components using AWS API Gateway and Lambda functions, supporting 10K+ daily requests with 99.9% uptime across production environments.
+	- Developed 5+ REST endpoints with Python Lambda functions, handling data processing and API integration for 3 mobile applications.
+	- Contributed to Infrastructure as Code using Terraform, automating deployment of AWS resources across dev/staging/prod environments.
+	- Built automated database migration pipeline using Alembic, reducing schema deployment errors by 95% and saving 15+ hours of manual database management per week.
+	- Integrated automated testing workflows into CircleCI pipelines, improving code quality and reducing manual testing overhead by 60% across development cycles.
+	- Developed comprehensive Android test automation using Espresso framework, increasing test coverage from 45% to 70% and catching 85% of bugs before production deployment.
 
----
+- **Institute for Plasma Research, Gandhinagar, India** — Project Intern (Dec 2020 – Apr 2021)
+	- Enhanced the development of Ethereum blockchain by utilizing Solidity, JavaScript, and Java and maintaining both client-side and server-side code. Complied with industry-standard software development procedures and crafted 5 UML diagrams to enhance comprehension and facilitate future maintenance.
+	- Participated in code reviews to ensure the quality and reliability of the final product.
 
-- 👔 [LinkedIn](https://www.linkedin.com/in/harshnagoriya/)
-- 💻 [GitHub](https://github.com/harshnagoriya)
-- 🎓 [Google Scholar](https://scholar.google.co.in/citations?user=cI0ZKq0AAAAJ&hl=en)
-- 📖 [ResearchGate](https://www.researchgate.net/profile/Harsh_Nagoriya)
-- 👌 [Instagram](https://www.instagram.com/realharshnagoriya/)
+- **Arizona State University, Tempe, AZ** — Computing Support (Jun 2022 – Aug 2022)
+	- Supported developers with OpenCast, Wistia, and LMS software for 5500+ students
+	- Set up and debugged server-side web applications and administered 5+ servers for the Math and Statistics department
+
+
+## Credentials & Links
+
+- [LinkedIn](https://www.linkedin.com/in/harshnagoriya/)
+- [GitHub](https://github.com/harshnagoriya)
+- [Google Scholar](https://scholar.google.co.in/citations?user=cI0ZKq0AAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Harsh_Nagoriya)
+- [Instagram](https://www.instagram.com/realharshnagoriya/)
+
+## License
+
+This project is licensed under the terms included in the LICENSE file.
+
+## Contact
+
+For inquiries, visit [harshnagoriya.github.io](https://harshnagoriya.github.io/) or email [harshnagoriya@gmail.com](mailto:harshnagoriya@gmail.com).
 
