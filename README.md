@@ -1,6 +1,6 @@
 # Harsh Nagoriya
 
-Software Development Engineer II at Amazon, building large-scale distributed systems and cloud-native infrastructure. Currently focused on multi-agent AI platforms and global marketing automation across 18+ marketplaces.
+Software Development Engineer II at Amazon, building large-scale distributed systems, multi-agent AI platforms, and cloud-native microservices. Focused on system design, platform engineering, and delivering high-impact technical solutions.
 
 - Portfolio: [harshnagoriya.github.io](https://harshnagoriya.github.io/)
 - LinkedIn: [linkedin.com/in/harshnagoriya](https://www.linkedin.com/in/harshnagoriya/)
