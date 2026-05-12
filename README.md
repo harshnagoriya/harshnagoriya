@@ -29,7 +29,8 @@ Software Development Engineer II at Amazon, building large-scale distributed sys
 - Developed comprehensive Android test automation using Espresso framework, increasing test coverage from 45% to 70% and catching 85% of bugs before production deployment.
 
 **Project Intern - Institute for Plasma Research** *(Dec 2020 - Apr 2021)*
-- Developed Ethereum blockchain components using Solidity, JavaScript, and Java.
+- Built and maintained Ethereum blockchain components using Solidity, JavaScript, and Java across client-side and server-side codebases; authored 5 UML diagrams to document system architecture.
+- Participated in code reviews and followed industry-standard software development practices.
 
 ---
 
