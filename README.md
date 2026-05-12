@@ -10,7 +10,7 @@ Software Development Engineer II at Amazon, building large-scale distributed sys
 
 ## Experience
 
-**Software Development Engineer II — Amazon** *(Dec 2023 - Present)*
+**Software Development Engineer II - Amazon** *(Dec 2023 - Present)*
 - Architected a core experimentation framework for a multi-agent AI system, designing autonomous workflows that intelligently generate hypotheses and execute targeted content experiments. Delivered this highly scalable infrastructure as a primary technical building block to drive a leadership objective of acquiring 1M+ new Prime members.
 - Led the system design and development of the orchestration layer for a multi-agent AI experimentation platform scaling across 18+ marketplaces, solving complex automation bottlenecks to drastically accelerate global marketing initiatives.
 - Designed and implemented a localization preview service integrated with Figma, automating conversion of design mocks into marketing assets and providing real-time validation of localized content; reduced global launch timelines from 8 weeks to 1 week.
@@ -20,7 +20,7 @@ Software Development Engineer II at Amazon, building large-scale distributed sys
 - Built a real-time, event-driven data pipeline using AWS Kinesis, migrating a critical service off a deprecated platform and ensuring 100% business continuity for experiment analysis dashboards.
 - Drove key process improvements for the engineering team's sprint and operational excellence cadences, resulting in sustained 80%+ task completion rates and more efficient planning cycles.
 
-**Software Engineer — Audere** *(Aug 2022 - Dec 2023)*
+**Software Engineer - Audere** *(Aug 2022 - Dec 2023)*
 - Built serverless API components using AWS API Gateway and Lambda functions, supporting 10K+ daily requests with 99.9% uptime across production environments.
 - Developed 5+ REST endpoints with Python Lambda functions, handling data processing and API integration for 3 mobile applications.
 - Contributed to Infrastructure as Code using Terraform, automating deployment of AWS resources across dev/staging/prod environments.
@@ -28,7 +28,7 @@ Software Development Engineer II at Amazon, building large-scale distributed sys
 - Integrated automated testing workflows into CircleCI pipelines, improving code quality and reducing manual testing overhead by 60% across development cycles.
 - Developed comprehensive Android test automation using Espresso framework, increasing test coverage from 45% to 70% and catching 85% of bugs before production deployment.
 
-**Project Intern — Institute for Plasma Research** *(Dec 2020 - Apr 2021)*
+**Project Intern - Institute for Plasma Research** *(Dec 2020 - Apr 2021)*
 - Developed Ethereum blockchain components using Solidity, JavaScript, and Java.
 
 ---
@@ -47,5 +47,5 @@ Software Development Engineer II at Amazon, building large-scale distributed sys
 
 ## Education
 
-- **M.S. Computer Science** — Arizona State University *(2021 - 2023)*
-- **B.Tech Information Technology** — Dharmsinh Desai University *(2017 - 2021)*
+- **M.S. Computer Science** - Arizona State University *(2021 - 2023)*
+- **B.Tech Information Technology** - Dharmsinh Desai University *(2017 - 2021)*
