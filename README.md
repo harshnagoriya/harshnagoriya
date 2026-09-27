@@ -1,52 +1,126 @@
 # Harsh Nagoriya
 
-Software Development Engineer II at Amazon, building large-scale distributed systems, multi-agent AI platforms, and cloud-native microservices. Focused on system design, platform engineering, and delivering high-impact technical solutions.
+Software Development Engineer II at Amazon, currently working as a Tech Lead in Content Quality.
 
-- Portfolio: [harshnagoriya.github.io](https://harshnagoriya.github.io/)
-- LinkedIn: [linkedin.com/in/harshnagoriya](https://www.linkedin.com/in/harshnagoriya/)
-- Email: [me@harshnagoriya.info](mailto:me@harshnagoriya.info)
+I build distributed systems and backend platforms, with recent work spanning multi-agent AI, agent memory, experimentation infrastructure, event-driven architectures, and cloud-native services.
 
----
+I'm also a Bar Raiser-in-Training at Amazon and have experience interviewing and mentoring engineers.
 
-## Experience
-
-**Software Development Engineer II - Amazon** *(Dec 2023 - Present)*
-- Architected a core experimentation framework for a multi-agent AI system, designing autonomous workflows that intelligently generate hypotheses and execute targeted content experiments. Delivered this highly scalable infrastructure as a primary technical building block to drive a leadership objective of acquiring 1M+ new Prime members.
-- Led the system design and development of the orchestration layer for a multi-agent AI experimentation platform scaling across 18+ marketplaces, solving complex automation bottlenecks to drastically accelerate global marketing initiatives.
-- Designed and implemented a localization preview service integrated with Figma, automating conversion of design mocks into marketing assets and providing real-time validation of localized content; reduced global launch timelines from 8 weeks to 1 week.
-- Developed a distributed microservice to manage global rollout of Prime savings and benefits, automating audits and updates for 1,500+ marketing assets across 9+ marketplaces; reduced operational effort from 2 months to 1 day.
-- Led design and implementation of Prime's first member-retention A/B testing framework, building orchestration logic across 5+ teams and delivering statistically significant results with a projected uplift of 11,000+ annualized Members.
-- Owned end-to-end migration of an internal content management service from legacy NetScaler hardware to an AWS Application Load Balancer with zero downtime, eliminating critical security risks and enabling cloud-native scalability.
-- Built a real-time, event-driven data pipeline using AWS Kinesis, migrating a critical service off a deprecated platform and ensuring 100% business continuity for experiment analysis dashboards.
-- Drove key process improvements for the engineering team's sprint and operational excellence cadences, resulting in sustained 80%+ task completion rates and more efficient planning cycles.
-
-**Software Engineer - Audere** *(Aug 2022 - Dec 2023)*
-- Built serverless API components using AWS API Gateway and Lambda functions, supporting 10K+ daily requests with 99.9% uptime across production environments.
-- Developed 5+ REST endpoints with Python Lambda functions, handling data processing and API integration for 3 mobile applications.
-- Contributed to Infrastructure as Code using Terraform, automating deployment of AWS resources across dev/staging/prod environments.
-- Built automated database migration pipeline using Alembic, reducing schema deployment errors by 95% and saving 15+ hours of manual database management per week.
-- Integrated automated testing workflows into CircleCI pipelines, improving code quality and reducing manual testing overhead by 60% across development cycles.
-- Developed comprehensive Android test automation using Espresso framework, increasing test coverage from 45% to 70% and catching 85% of bugs before production deployment.
-
-**Project Intern - Institute for Plasma Research** *(Dec 2020 - Apr 2021)*
-- Built and maintained Ethereum blockchain components using Solidity, JavaScript, and Java across client-side and server-side codebases; authored 5 UML diagrams to document system architecture.
-- Participated in code reviews and followed industry-standard software development practices.
+[Portfolio](https://harshnagoriya.dev) · [LinkedIn](https://www.linkedin.com/in/harshnagoriya) · [Email](mailto:harsh@harshnagoriya.dev)
 
 ---
 
-## Skills
+## What I work on
 
-**Languages:** Java, Python, TypeScript, JavaScript, C++, SQL, Bash
+My work at Amazon sits at the intersection of backend engineering, distributed systems, and applied AI.
 
-**AWS:** Lambda, API Gateway, Kinesis, DynamoDB, S3, SQS/SNS, ALB, Redshift, CDK
+Recent projects include:
 
-**Frameworks & Tools:** Spring Boot, Node.js, React, Docker, Terraform, Kubernetes, Git
+- Designing experimentation infrastructure for multi-agent AI systems, including autonomous workflows for hypothesis generation and content experiments.
+- Building the orchestration layer for an AI experimentation platform operating across 18+ global marketplaces.
+- Working on agent memory and platform capabilities for AI-driven systems.
+- Building a Figma-integrated localization service that reduced parts of the global launch process from roughly 8 weeks to 1 week.
+- Developing a distributed service for auditing and updating 1,500+ Prime marketing assets across 9+ marketplaces.
+- Designing a member-retention experimentation framework that coordinated workflows across 5+ teams.
+- Migrating a production content service from legacy load-balancing infrastructure to AWS Application Load Balancer with zero downtime.
+- Building a real-time event pipeline with AWS Kinesis for experimentation data.
 
-**Concepts:** Distributed Systems, Microservices, Event-Driven Architecture, Large-Scale System Design, Platform Engineering, IaC
+I also spend time on technical leadership, system design, engineering reviews, operational improvements, and interviewing.
+
+---
+
+## Before Amazon
+
+### Audere
+
+I worked as a Software Engineer at Audere, where I built backend and infrastructure components for production healthcare applications.
+
+My work included:
+
+- Serverless APIs with AWS API Gateway and Lambda
+- Python REST services
+- Terraform-based infrastructure
+- Database migrations with Alembic
+- CI/CD and automated testing with CircleCI
+- Android test automation with Espresso
+
+The systems supported multiple mobile applications and production workloads handling thousands of daily requests.
+
+### Arizona State University
+
+While completing my master's degree, I worked in two technical roles at ASU.
+
+**Computing Support**
+
+I supported software and infrastructure used by the Mathematics and Statistics department, including server-side applications, academic technology platforms, and several department servers.
+
+**Graduate Service Assistant**
+
+I supported graduate-level courses including Internet-Enabled Embedded Systems, Embedded Interfaces, and Computer Organization.
+
+### Institute for Plasma Research
+
+As a Project Engineer, I worked on Ethereum-based applications involving client-side and server-side components, system design documentation, and code reviews.
+
+---
+
+## Tech
+
+**Languages**
+
+Java · Python · TypeScript · JavaScript · C++ · SQL · Bash
+
+**Backend**
+
+Spring Boot · Node.js · REST APIs · Microservices · Distributed Systems
+
+**AWS**
+
+Lambda · API Gateway · Kinesis · DynamoDB · S3 · SQS/SNS · ALB · Redshift · CDK
+
+**Infrastructure**
+
+Docker · Kubernetes · Terraform · Infrastructure as Code · CI/CD
+
+**Systems**
+
+Event-Driven Architecture · Large-Scale System Design · Platform Engineering · Experimentation Systems
+
+**AI**
+
+Multi-Agent Systems · Agent Orchestration · Agent Memory · Applied AI Infrastructure
 
 ---
 
 ## Education
 
-- **M.S. Computer Science** - Arizona State University *(2021 - 2023)*
-- **B.Tech Information Technology** - Dharmsinh Desai University *(2017 - 2021)*
+**Arizona State University**  
+M.S. in Computer Science · 2021–2023
+
+**Dharmsinh Desai University**  
+B.Tech in Information Technology · 2017–2021
+
+---
+
+## Earlier work
+
+Before my current focus on distributed systems and AI infrastructure, I worked extensively on computer vision, cloud computing, and embedded systems.
+
+Some of that work is still available in my repositories, including projects around:
+
+- Face recognition
+- Real-time face mask detection
+- Helmet detection
+- Machine learning
+- Cloud-based computer vision systems
+- IoT and embedded systems
+
+That work also led to academic publications in face recognition and real-time computer vision.
+
+---
+
+## Current interests
+
+Distributed systems, AI agents, agent memory, backend infrastructure, developer platforms, and the engineering problems that appear when systems have to operate reliably at scale.
+
+More at [harshnagoriya.dev](https://harshnagoriya.dev).
